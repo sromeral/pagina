@@ -1,0 +1,36 @@
+body, button, #mensaje, #nombre {
+	color: darkgreen;
+}
+
+body {
+	font-family: Arial;
+	font-size: 1.5em;
+	text-align: center;
+}
+
+div {
+	width: 380px;
+	height: 500px;
+	background-color: #04ffea;
+	padding: 20px;
+}
+
+#mensaje {
+	width: 100%;
+	height: 30px;
+	background-color: #5ce9dd;
+}
+
+#nombre {
+	width: 250px;
+}
+
+#mensaje, #nombre {
+	font-size: 1em;
+}
+
+button {
+	padding: 10px;
+	border-radius: 10px;
+	font-size: 0.85em;
+}
